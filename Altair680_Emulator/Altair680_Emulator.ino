@@ -377,6 +377,12 @@ void setup() {
 
     activePort->println(msg);
 
+    // Load BASIC automatically at startup
+    loadAltairBasicImage();
+    PC = 0x0000;
+    basic_ready_for_input = true;
+    activePort->println("BASIC loaded and started automatically.");
+
     //showMemoryAtSwitches(0);    // show data at memory location 0
     updateStatusLeds();
 }
