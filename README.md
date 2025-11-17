@@ -4,6 +4,8 @@ This project emulates the MITS Altair 680 microcomputer with 48k of RAM using an
 
 This fork loads automatically Altair BASIC into RAM. Just enter "J 0000" at monitor prompt.
 
+More info at this link [https://minibots.wordpress.com/2025/11/16/emulador-de-mits-altair-680-con-arduino-due/]
+
 
 ## Overview
 
