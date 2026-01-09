@@ -6,6 +6,7 @@ This fork loads automatically Altair BASIC into RAM. Just enter "J 0000" at moni
 
 More info at this link [https://minibots.wordpress.com/2025/11/16/emulador-de-mits-altair-680-con-arduino-due/]
 
+Más sobre retroinformática aquí: [https://minibots.wordpress.com/retroinformatica/]
 
 ## Overview
 
